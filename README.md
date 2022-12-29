@@ -1,5 +1,5 @@
 # StopWatch-ReactNative
-## React Native calculator mobile App.
+## React Native StopWatch mobile App.
 
 This project was bootstrapped with. [Expo Cli](https://docs.expo.dev/workflow/expo-cli/).
 
